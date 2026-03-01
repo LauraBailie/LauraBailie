@@ -16,6 +16,13 @@ Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11
 
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraBailie&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+</div>
+
+<br>
+
 ### About Me
 
 Analytical Information Technology graduate passionate about building **secure**, **reliable**, and **scalable** software.  
@@ -25,10 +32,6 @@ Currently focused on:
 - Java / Spring Boot REST APIs with strong authentication & validation
 - Python-based data pipelines & analytics
 - Secure coding practices, input sanitization, and role-based access control
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LauraBailie&show_icons=true&theme=radical" alt="Laura's GitHub stats" />
-</p>
 
 ### 🛠️ Tech Stack
 
