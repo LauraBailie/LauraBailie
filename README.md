@@ -20,7 +20,7 @@ Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11
 
 <h3>GitHub Activity</h3>
 
-<img src="https://github-readme-stats-pi-gold-47.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats-pi-gold-47.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
 
 </div>
 
