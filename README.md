@@ -14,10 +14,11 @@ Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11
   </a>
 </p>
 
-<img src="https://github-readme-stats-eight.vercel.app/api?username=LauraBailie&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub stats" width="48%" />
+</div>
 
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LauraBailie&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </div>
 
 <br>
