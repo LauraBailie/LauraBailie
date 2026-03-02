@@ -18,10 +18,10 @@ Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11
 
 <div align="center">
   <!-- Main Stats - using a stable fork/theme -->
-<img src="https://github-readme-stats-eight.vercel.app/api?username=LauraBailie&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub stats" width="48%" />
+<img src="https://github-readme-stats-eight.vercel.app/api?username=LauraBailie&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub stats" width="48%" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=onedark&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=LauraBailie&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="40%" />
 </div>
 
 <br>
