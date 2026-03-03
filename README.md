@@ -2,7 +2,7 @@
 
 <h1>Hello there, I'm Laura Bailie 👋</h1>
 
-<p><strong>Junior Backend Developer & Cybersecurity Enthusiast</strong><br>
+<p><strong>Graduate Developer & Cybersecurity Enthusiast</strong><br>
 Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11@gmail.com</a></p>
 
 <p>
