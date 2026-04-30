@@ -28,7 +28,7 @@ Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11
 
 ### About Me
 
-Analytical Information Technology graduate passionate about building **secure**, **reliable**, and **scalable** software.  
+Passionate about building **secure**, **reliable**, and **scalable** software.  
 I enjoy backend development, secure API design, databases, real-time data processing, and applying cybersecurity fundamentals to development practices.
 
 Currently focused on:
@@ -84,4 +84,4 @@ Key focus areas: Databases & Advanced Databases, Data Structures & Algorithms, O
 
 Always open to collaboration, learning opportunities, and feedback on secure development practices.
 
-Thanks for stopping by! 🚀
+Let's connect!
