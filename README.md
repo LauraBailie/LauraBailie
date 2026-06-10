@@ -2,7 +2,7 @@
 
 <h1>Hello there, I'm Laura Bailie 👋</h1>
 
-<p><strong>Software Developer & Cybersecurity Enthusiast</strong><br>
+<p><strong>Software Developer</strong><br>
 Cape Town, South Africa | <a href="mailto:laurabailie11@gmail.com">laurabailie11@gmail.com</a></p>
 
 <p>
@@ -62,6 +62,12 @@ JWT · Input Validation · Secure Configuration · Threat Modeling Basics · Ris
 | **Real-Time Payments Analytics Pipeline** | End-to-end real-time transaction streaming & analytics simulation with Kafka producers/consumers, MongoDB storage, and Power BI dashboards | Python, Apache Kafka, MongoDB, Power BI | [GitHub](https://github.com/LauraBailie/Clearvue-Realtime-Payments) |
 | **Brighton Medical – Desktop & Web Application** | Structured desktop/web app supporting organised medical workflows and data handling | C#, Windows Forms | [GitHub](https://github.com/LauraBailie/BrightonMedical) |
 
+### 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+North-West University | 2022 – 2025  
+Key focus areas: Databases & Advanced Databases, Data Structures & Algorithms, Operating Systems, Computer Networks, Object-Oriented Programming, Decision Support Systems, Artificial Intelligence
+
 ### 📜 Certifications
 
 - **The Ultimate 2025 Full Stack Web Development Bootcamp** – Udemy (2026)  
@@ -70,17 +76,10 @@ JWT · Input Validation · Secure Configuration · Threat Modeling Basics · Ris
 - **Google Cybersecurity Professional Certificate** – Coursera (2024)  
   Threat identification, risk management, SIEM concepts, Linux/SQL basics, incident response, security controls
 
-### 🎓 Education
-
-**Bachelor of Science in Information Technology**  
-North-West University | 2022 – 2025  
-Key focus areas: Databases & Advanced Databases, Data Structures & Algorithms, Operating Systems, Computer Networks, Object-Oriented Programming, Decision Support Systems, Artificial Intelligence
-
-### 📫 Let's Connect
+### 📫 Contact Information
 
 - **Email**: laurabailie11@gmail.com  
 - **LinkedIn**: [linkedin.com/in/laura-bailie-2167b820b](https://www.linkedin.com/in/laura-bailie-2167b820b/)  
-- **GitHub**: [github.com/LauraBailie](https://github.com/LauraBailie)
 
 Always open to collaboration, learning opportunities, and feedback on secure development practices.
 
